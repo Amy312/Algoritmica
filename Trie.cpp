@@ -19,13 +19,27 @@ void init() {
     
 
 
-void insertWord(string word){
-    node *currentNode = trie;  
-    for (int i = 0; i < word.length(); i++){
-        if(currentNode->mapero.find(word[i]) == currentNode->mapero.end()){
-            currentNode->mapero[word[i]] = new node();
+void insertWord(string word) {  
+    node *currentNode =  trie;  
+    for (int i = 0; i< word.length(); i++) {
+        int character = word[i] - 'a';   
+        if(currentNode->children[character] == NULL ) {
+            currentNode->children[character] = new node();
         }
-        currentNode = currentNode->mapero[word[i]];
+        currentNode = currentNode->children[character];
+        currentNode->currentCharacter = word[i];
     }
-    currentNode->isWord=true;
+    currentNode->isWord = true;
+}
+
+bool searchWord(string word) {
+    node *currentNode =  trie;  
+    for (int i = 0; i< word.length(); i++) {
+        int character = word[i] - 'a';
+        if(currentNode->children[character] == NULL ) {
+           return false;
+        }
+        currentNode = currentNode->children[character];
+    }
+    return currentNode->isWord;
 }
