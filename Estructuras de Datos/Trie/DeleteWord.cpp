@@ -53,23 +53,15 @@ void deleteWord(string word){
         return;
     }
     node *currentNode = trie;
-    //node *newnode = currentNode;
-   // newnode = currentNode->children[int(word[0]-'a')];
-   // currentNode->Cbefore = newnode;
+    
     currentNode = currentNode->children[int(word[0]-'a')];
 
     for(int i=1; i<word.length(); i++){
-        // newnode = currentNode->children[int(word[i]-'a')];
-
-       // currentNode->Cbefore = newnode;
         currentNode = currentNode->children[int(word[i]-'a')];
-
     }
     currentNode->isWord = false;
     currentNode = NULL;
     delete currentNode;
-
-    
 }
 /*
 int findWords(string prefix) {   // alto 
