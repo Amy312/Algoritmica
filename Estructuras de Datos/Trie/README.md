@@ -4,13 +4,11 @@ Para ponerlo en palabras simples, podemos usar el Trie como un diccionario, en e
 ![Trie](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/1024px-Trie_example.svg.png)
 
 ## Código base
--  [Trie](Trie.java) - _Java/T_
--  [Trie con Mapa](TrieConMapa.java) - _Java/T_
--  [Trie](trie_array.cpp) - _C++_
--  [Trie con mapa](trie_map.cpp) - _C++_
+-  [Trie](arrayTrie.cpp) - _C++_
+-  [Trie con mapa](mapTrie.cpp) - _C++_
 
-## Problemas
--  [Contacts](https://www.hackerrank.com/challenges/contacts/problem)
+## Implementación Delete
+-  [Delete](DeleteWord.cpp) . _C++_
 
 ## Referencias 
 -  [Trie data structure cheat sheet for coding interviews](https://medium.com/quick-code/trie-data-structure-cheat-sheet-for-coding-interviews-a828fd374b84)
