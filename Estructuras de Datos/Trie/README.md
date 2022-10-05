@@ -4,7 +4,7 @@ Para ponerlo en palabras simples, podemos usar el Trie como un diccionario, en e
 ![Trie](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/1024px-Trie_example.svg.png)
 
 ## Código base
--  [Trie](arrayTrie.cpp) - _C++_
+-  [Trie](ArrayTrie.cpp) - _C++_
 -  [Trie con mapa](mapTrie.cpp) - _C++_
 
 ## Implementación Delete
