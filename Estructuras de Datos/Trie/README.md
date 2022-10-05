@@ -9,7 +9,7 @@ Un Árbol de sufijos T es una mejora natural sobre el trie utilizado en el probl
 Para una mejor comprensión, consideremos el árbol de sufijos T para una cadena s = abakan. Una palabra abakan tiene 6 sufijos {abakan , bakan, akan, kan, an, n} y su árbol de sufijos se ve así: 
 
 
-![Suffix Trie](http://url/to/img.png](https://he-s3.s3.amazonaws.com/media/uploads/fa2b26c.jpg)
+![Suffix Trie](https://he-s3.s3.amazonaws.com/media/uploads/fa2b26c.jpg)
 
 
 
