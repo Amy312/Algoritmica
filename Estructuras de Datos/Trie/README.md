@@ -11,11 +11,14 @@ Para una mejor comprensión, consideremos el árbol de sufijos T para una cadena
 
 ![Suffix Trie](https://he-s3.s3.amazonaws.com/media/uploads/fa2b26c.jpg)
 
+Los árboles de sufijos pueden resolver muchos problemas complicados, porque contienen mucha información sobre la cadena en sí. Por ejemplo, para saber cuántas veces ocurre un patrón P en s, es suficiente encontrar P en T y devolver el tamaño de un subárbol correspondiente a su nodo. Otra aplicación bien conocida es encontrar el número de subcadenas distintas de s, y se puede resolver fácilmente con el árbol de sufijos, aunque el problema parece muy complicado a primera vista.
 
 
 ## Código base
 -  [Trie](ArrayTrie.cpp) - _C++_
 -  [Trie con mapa](mapTrie.cpp) - _C++_
+-  [Suffix Tree](SuffixTree.cpp) - _C++_
+
 
 ## Implementación Delete
 -  [Delete](DeleteWord.cpp) . _C++_
@@ -23,5 +26,8 @@ Para una mejor comprensión, consideremos el árbol de sufijos T para una cadena
 ## Referencias 
 -  [Trie data structure cheat sheet for coding interviews](https://medium.com/quick-code/trie-data-structure-cheat-sheet-for-coding-interviews-a828fd374b84)
 -  [The Trie Data Structure: A Neglected Gem](https://www.toptal.com/java/the-trie-a-neglected-data-structure)
-
 -  [Trie](https://www.interviewcake.com/concept/java/trie)
+-  [SuffixTrie](https://www.hackerearth.com/practice/notes/trie-suffix-tree-suffix-array/)
+-  [SuffixTree code](https://www.sanfoundry.com/cpp-program-implement-suffix-tree/)
+-  [SuffixTree code2](https://kalkicode.com/suffix-tree-implementation-in-cpp)
+
