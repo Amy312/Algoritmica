@@ -1,7 +1,7 @@
 # Trie
 En ciencias de la computación se conoce como trie, digital tree o prefix tree a un árbol de busqueda. Se usa para guardar un set dinamico o un array asociativo en el que las llaves son usualmente strings.
 Para ponerlo en palabras simples, podemos usar el Trie como un diccionario, en el que cuardamos palabras en base a prefijos.
-![Trie][(https://i0.wp.com/learnersbucket.com/wp-content/uploads/2020/12/searching-in-trie-1.png?resize=768%2C500&ssl=1)
+![Trie](https://i0.wp.com/learnersbucket.com/wp-content/uploads/2020/12/searching-in-trie-1.png?resize=768%2C500&ssl=1)
 
 # Suffix Trie
 Un Árbol de sufijos T es una mejora natural sobre el trie utilizado en el problema de coincidencia de patrones, el que se define sobre un conjunto de subcadenas de una cadena s. La idea es muy simple aquí. Tal trie puede tener largos caminos sin ramas. Si solo podemos reducir estos caminos largos en un solo salto, reduciremos significativamente el tamaño del trie, por lo que este es un gran primer paso para mejorar la complejidad de las operaciones en dicho árbol. Este trie reducido definido sobre un subconjunto de sufijos de una cadena s se denomina árbol de sufijos de s 
