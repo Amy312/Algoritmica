@@ -3,7 +3,7 @@ Un árbol de Fenwick o un BIT (Binary indexed tree) es una estructura de datos q
 Algunas ventajas sobre el Segment tree son el espacio, ya que utiliza mucho menos y además es una estructura de datos más fácil de implementar. Sin embargo, es algo complejo de entender. 
 ![BIT](https://media.geeksforgeeks.org/wp-content/cdn-uploads/BITSum.png)
 ## Código base
--  [BIT](bit.cpp) - _C++_
+-  [BIT](BIT.cpp) - _C++_
 ## Referencias 
 -  [Topcoder BIT](https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/)
 -  [Fenwick Tree](https://cp-algorithms.com/data_structures/fenwick.html)
