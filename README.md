@@ -6,10 +6,10 @@ Este repositorio estará bajo constantes modificaciones dando información sobre
 
 
 ## Estructuras de Datos
--  [BIT](contenido/Estructuras_de_datos/BIT)
--  [Union Find](contenido/Estructuras_de_datos/Union_Find)
--  [Segment Tree](contenido/Estructuras_de_datos/Segment_tree)
--  [Trie](contenido/Estructuras_de_datos/trie)
+-  [BIT](https://github.com/Amy312/Algoritmica/tree/main/Estructuras%20de%20Datos/Union_Find)
+-  [Union Find](https://github.com/Amy312/Algoritmica/tree/main/Estructuras%20de%20Datos/Union_Find)
+-  [Segment Tree](https://github.com/Amy312/Algoritmica/tree/main/Estructuras%20de%20Datos/SegmentTree)
+-  [Trie](https://github.com/Amy312/Algoritmica/tree/main/Estructuras%20de%20Datos/Trie)
 
 
 ## Bactracking
