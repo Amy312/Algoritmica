@@ -6,11 +6,11 @@ Este repositorio estará bajo constantes modificaciones dando información sobre
 
 
 ## Estructuras de Datos
--  [BIT](contenido/Estructura_de_datos/BIT)
--  [Union Find](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/Union_Find)
--  [Segment Tree](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/Segment_tree)
--  [Trie](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Estructura_de_datos/trie)
+-  [BIT](contenido/Estructuras_de_datos/BIT)
+-  [Union Find](contenido/Estructuras_de_datos/Union_Find)
+-  [Segment Tree](contenido/Estructuras_de_datos/Segment_tree)
+-  [Trie](contenido/Estructuras_de_datos/trie)
 
 
 ## Bactracking
--  [Bactracking](https://github.com/PaulLandaeta/algoritmica2/tree/master/contenido/Backtracking)
+-  [Bactracking](contenido/BackTracking)
