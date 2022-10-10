@@ -1,6 +1,7 @@
 # BIT
-Un árbol de Fenwick o un BIT (Binary indexed tree) es una estructura de datos que puede realizar actualizaciones de los elementos y calcular la suma de los prefijos en un arreglo de números de manera eficiente.
-Algunas ventajas sobre el Segment tree son el espacio, ya que utiliza mucho menos y además es una estructura de datos más fácil de implementar. Sin embargo, es algo complejo de entender. 
+Un árbol de Fenwick o un BIT (Binary indexed tree) es una estructura de datos que puede realizar actualizaciones de los elementos y calcular la suma de los prefijos en un arreglo de números de manera eficiente siendo un grupo.
+El árbol indexado binario se representa como una matriz. Deje que la matriz sea BITree[]. Cada nodo del árbol indexado binario almacena la suma de algunos elementos de la matriz de entrada. El tamaño del árbol indexado binario es igual al tamaño de la matriz de entrada, indicado como n. En el siguiente código, usamos un tamaño de n+1 para facilitar la implementación.
+
 ![BIT](https://media.geeksforgeeks.org/wp-content/cdn-uploads/BITSum.png)
 ## Código base
 -  [BIT](BIT.cpp) - _C++_
