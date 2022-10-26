@@ -22,3 +22,6 @@ Este repositorio estará bajo constantes modificaciones dando información sobre
 ## Teoria de Grafos
 -  [Kruskal](https://github.com/Amy312/Algoritmica/tree/main/Teoria%20de%20Grafos/Kruskal)
 -  [Prim](https://github.com/Amy312/Algoritmica/tree/main/Teoria%20de%20Grafos/Prim)
+ 
+## Búsqueda Binaria
+- [Búsqueda Binaria](https://github.com/Amy312/Algoritmica/tree/main/B%C3%BAsqueda%20Binaria)
