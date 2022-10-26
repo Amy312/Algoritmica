@@ -16,6 +16,8 @@ Este repositorio estará bajo constantes modificaciones dando información sobre
 -  [Backtracking](https://github.com/Amy312/Algoritmica/tree/main/BackTracking)
 
 ## Programación Dinámica
+-  [Digit](https://github.com/Amy312/Algoritmica/tree/master/Programaci%C3%B3n%20Din%C3%A1mica/Digit)
+-  [Subset Sum](https://github.com/Amy312/Algoritmica/tree/master/Programaci%C3%B3n%20Din%C3%A1mica/Subset%20Sum)
 
 ## Teoria de Grafos
 -  [Kruskal](https://github.com/Amy312/Algoritmica/tree/main/Teoria%20de%20Grafos/Kruskal)
