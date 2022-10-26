@@ -14,3 +14,7 @@ Este repositorio estará bajo constantes modificaciones dando información sobre
 
 ## Bactracking
 -  [Backtracking](https://github.com/Amy312/Algoritmica/tree/main/BackTracking)
+
+## Programación Dinámica
+
+## Grafos
