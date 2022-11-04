@@ -8,7 +8,7 @@ Geometría Computacional trata de aplicar conceptos geométricos a la programaci
 Un punto y un vector serán definidos por sus coordenadas correspondientes y ambos tendrán acceso a un ángulo y un módulo. Esto quiere decir que en geometría computacional podemos tratar a un punto como si en realidad fuera un vector. 
 Para las operaciones se realizarán modificaciones tales que se adapten a base de puntos Y el resto e operaciónes a utilizar se basarán en puntos.
 
-[Point](http://farm6.static.flickr.com/5023/5872821426_4cd057bcc0.jpg)
+![Sol](http://farm6.static.flickr.com/5023/5872821426_4cd057bcc0.jpg)
  
 
 ## Código
