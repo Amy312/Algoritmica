@@ -5,6 +5,11 @@ El árbol indexado binario se representa como una matriz. Deje que la matriz sea
 ![BIT](https://media.geeksforgeeks.org/wp-content/cdn-uploads/BITSum.png)
 ## Código base
 -  [BIT](BIT.cpp) - _C++_
+
+## Problemas
+-  [Kattis _ Turbo]()
+-  [Solucion](turbo.cpp)
+
 ## Referencias 
 -  [Topcoder BIT](https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/)
 -  [Fenwick Tree](https://cp-algorithms.com/data_structures/fenwick.html)
