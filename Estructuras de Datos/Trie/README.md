@@ -23,6 +23,9 @@ Los árboles de sufijos pueden resolver muchos problemas complicados, porque con
 ## Implementación Delete
 -  [Delete](DeleteWord.cpp) . _C++_
 
+## Problemas
+- [139. Word Break](https://leetcode.com/problems/word-break/)
+- [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 ## Referencias 
 -  [Trie data structure cheat sheet for coding interviews](https://medium.com/quick-code/trie-data-structure-cheat-sheet-for-coding-interviews-a828fd374b84)
 -  [The Trie Data Structure: A Neglected Gem](https://www.toptal.com/java/the-trie-a-neglected-data-structure)
