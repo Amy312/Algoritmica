@@ -5,6 +5,9 @@ Backtricking es una tecnica que se utiliza para resolver problemas de manera rec
 ## Código base
 -  [Ejemplo](example.cpp) - _C++_
 
+## Problema
+- 
+
 ## Referencias 
 -  [Recursion and Backtracking](https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/tutorial/)
 -  [A tree-based introduction to backtracking](https://medium.com/swlh/a-tree-based-introduction-to-backtracking-57e38264b2d2)
