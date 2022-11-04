@@ -7,6 +7,11 @@ En ciencias de la computación, un segment tree, es una estructura de datos en l
 ## Código base
 -  [Segment Tree](SegmentTree.cpp) - _C++_
 
+## Problemas
+- [Xenia and Bit Operations](https://codeforces.com/contest/339/problem/D)
+- [Knight Tournament](https://codeforces.com/contest/356/problem/A)
+
+## Referencias
 -  [Efficient and easy segment trees](https://codeforces.com/blog/entry/18051)
 ## Videos
 -  [Episode 4 - Segment Trees](https://www.youtube.com/watch?v=Tr-xEGoByFQ)
