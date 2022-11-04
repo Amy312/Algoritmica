@@ -1,29 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Amy312 
-PaulLandaeta
-/
-algoritmica2
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-algoritmica2/contenido/Geometria/geometria.cpp
-
-Paul Landaeta halim
-Latest commit 3817afb on 10 Sep 2021
- History
- 1 contributor
-271 lines (224 sloc)  6.64 KB
 
 #include <bits/stdc++.h> 
 #define input freopen("in.txt", "r", stdin)
@@ -296,18 +270,4 @@ int main(){
     }
     return 0;
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-algoritmica2/geometria.cpp at master · PaulLandaeta/algoritmica2
+
