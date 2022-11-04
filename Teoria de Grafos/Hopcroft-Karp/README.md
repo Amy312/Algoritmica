@@ -5,9 +5,12 @@ Gracias a ello podemos encontrar la máxima cantidad de emparejamientos entre do
 
 ![HopcroftKarp](https://user-images.githubusercontent.com/42759041/200081032-c220fab3-872f-4818-bbe3-5aaf7f536f46.png)
 
+## Código
+[Hopcraft-Karp](https://github.com/Amy312/Algoritmica/blob/main/Teoria%20de%20Grafos/Hopcroft-Karp/HopcroftKarp.cpp) _- C++_
 
-## Problemas
-[UVA 108000](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1021)
+
+## Problema
+[UVA 10800](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1021)
 
 ## Referencias
 - [Hopcroft-Karp Explanation1](https://www.geeksforgeeks.org/hopcroft-karp-algorithm-for-maximum-matching-set-1-introduction/)
