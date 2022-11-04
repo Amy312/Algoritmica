@@ -9,8 +9,8 @@ la mitad restante hasta encontrar el valor.
 -  [Búsqueda Binaria](BinarySearch.cpp) - _C++_
 
 ## Problemas
--  [Number Game](https://codeforces.com/problemset?tags=binary+search#:~:text=1749C-,Number%20Game,-binary%20search%2C)
--  [Meeting on the Line](https://codeforces.com/problemset?tags=binary+search#:~:text=1730B-,Meeting%20on%20the%20Line,-binary%20search%2C)
+-  [Number Game](https://codeforces.com/problemset/problem/1749/C)
+-  [Meeting on the Line](https://codeforces.com/problemset/problem/1730/B)
 
 ## Referencias 
 -  [Busqueda Binaria](https://www.youtube.com/watch?v=7qv1An90q2Q)
