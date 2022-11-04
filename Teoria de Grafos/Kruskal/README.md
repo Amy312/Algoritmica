@@ -16,3 +16,4 @@ El algoritmo de **Kruskal** es un algoritmo de la **Teoría de Grafos** que sirv
 -  [Árbol de Expansión Mínima: Algoritmo de Kruskal](https://jariasf.wordpress.com/2012/04/19/arbol-de-expansion-minima-algoritmo-de-kruskal/) -_WordPress_
 -  [Explicación: Algoritmo de Kruskal](https://cp-algorithms.com/graph/mst_kruskal.html) -_CP-Algorithms_
 -  [Explicación: Digit DP](https://codeforces.com/blog/entry/53960) - _CodeForces_
+-  [Kruskal Code](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
