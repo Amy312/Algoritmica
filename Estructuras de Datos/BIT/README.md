@@ -7,7 +7,7 @@ El árbol indexado binario se representa como una matriz. Deje que la matriz sea
 -  [BIT](BIT.cpp) - _C++_
 
 ## Problemas
--  [Kattis _ Turbo]()
+-  [Kattis _ Turbo](https://open.kattis.com/problems/turbo)
 -  [Solucion](turbo.cpp)
 
 ## Referencias 
