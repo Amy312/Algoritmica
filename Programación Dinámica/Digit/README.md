@@ -6,7 +6,9 @@ piden contar el número de enteros "x" entre dos enteros, digamos que "a" y "b" 
 x satisfaga una propiedad específica que puede relacionarse con sus dígitos.
 
 Dividir los problemas en subproblemas
+
 ![image](https://files.codingninjas.in/article_images/introduction-to-digit-dp-0-1636368072.jpg)
+
 ## Algoritmo Base
 -  [Código](digitdp.cpp)
 
