@@ -6,6 +6,7 @@ Algunas de la aplicaciones que tiene especialente en el campo de la informática
 En la presente carpeta se encuentran distintos algoritmos acerca de la **Teoría de Grafos**; además se encuentran un archivo **README** donde se da una breve explicación del funcionamiento de cada algoritmo.
 
 -  [Edmonds Karp](https://github.com/Amy312/Algoritmica/tree/main/Teoria%20de%20Grafos/Edmonds%20Karp)
+-  [Floyd Warshall](https://github.com/Amy312/Algoritmica/tree/main/Teoria%20de%20Grafos/Floyd%20Warshall)
 -  [Hopcroft Karp](https://github.com/Amy312/Algoritmica/tree/main/Teoria%20de%20Grafos/Hopcroft-Karp)
 -  [Kruskal](https://github.com/Amy312/Algoritmica/tree/main/Teoria%20de%20Grafos/Kruskal)
 -  [Prim](https://github.com/Amy312/Algoritmica/tree/main/Teoria%20de%20Grafos/Prim)
