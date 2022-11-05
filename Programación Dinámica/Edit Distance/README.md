@@ -11,7 +11,7 @@ Para atravesar desde la esquina derecha, hay dos posibilidades para cada par de 
 atraviesan.
 
 
-![Solved Problem](https://www.researchgate.net/publication/337461648/figure/fig3/AS:828225206902784@1574475685125/An-example-of-the-minimum-edit-distance-algorithm-The-left-sub-figure-show-the-F-matrix.ppm)
+![Solved Problem](https://www.cuelogic.com/wp-content/uploads/2021/06/SIX.jpg)
 
 ## Algoritmo Base
 ### Código
