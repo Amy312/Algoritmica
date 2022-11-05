@@ -7,7 +7,7 @@ x satisfaga una propiedad específica que puede relacionarse con sus dígitos.
 
 Dividir los problemas en subproblemas
 
-![image](https://user-images.githubusercontent.com/42759041/200097265-a4123aee-b974-4710-9b6d-476b9c469bc9.png)
+![image](https://files.codingninjas.in/article_images/introduction-to-digit-dp-0-1636368072.jpg)
 
 ## Algoritmo Base
 -  [Código](digitdp.cpp)
