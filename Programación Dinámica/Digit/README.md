@@ -7,7 +7,7 @@ x satisfaga una propiedad específica que puede relacionarse con sus dígitos.
 
 Dividir los problemas en subproblemas
 
-![](https://www.researchgate.net/profile/Malcolm-Macleod-3/publication/3343093/figure/fig1/AS:671507017646088@1537111157325/Signed-digit-tree-algorithm-applied-to-integer-eleven-Three-highlighted-results-are-MSD.png)
+![Digit](https://www.researchgate.net/profile/Malcolm-Macleod-3/publication/3343093/figure/fig1/AS:671507017646088@1537111157325/Signed-digit-tree-algorithm-applied-to-integer-eleven-Three-highlighted-results-are-MSD.png)
 
 ## Algoritmo Base
 -  [Código](digitdp.cpp)
