@@ -17,13 +17,18 @@ Este repositorio estará bajo constantes modificaciones dando información sobre
 
 ## Programación Dinámica
 -  [Digit](https://github.com/Amy312/Algoritmica/tree/master/Programaci%C3%B3n%20Din%C3%A1mica/Digit)
+-  [Edit Distance](https://github.com/Amy312/Algoritmica/tree/main/Programaci%C3%B3n%20Din%C3%A1mica/Edit%20Distance)
+-  [LIS](https://github.com/Amy312/Algoritmica/tree/main/Programaci%C3%B3n%20Din%C3%A1mica/LIS)
+-  [Rod Cutting](https://github.com/Amy312/Algoritmica/tree/main/Programaci%C3%B3n%20Din%C3%A1mica/Rod%20Cutting)
 -  [Subset Sum](https://github.com/Amy312/Algoritmica/tree/master/Programaci%C3%B3n%20Din%C3%A1mica/Subset%20Sum)
 
 ## Teoria de Grafos
+-  [Edmonds Karp](https://github.com/Amy312/Algoritmica/tree/main/Programaci%C3%B3n%20Din%C3%A1mica/Edmonds%20Karp)
+-  [Floyd Warshall](https://github.com/Amy312/Algoritmica/tree/main/Teoria%20de%20Grafos/Floyd%20Warshall)
+-  [Hopcroft-Karp](https://github.com/Amy312/Algoritmica/tree/main/Teoria%20de%20Grafos/Hopcroft-Karp)
 -  [Kruskal](https://github.com/Amy312/Algoritmica/tree/main/Teoria%20de%20Grafos/Kruskal)
 -  [Prim](https://github.com/Amy312/Algoritmica/tree/main/Teoria%20de%20Grafos/Prim)
--  [Edmonds Karp](https://github.com/Amy312/Algoritmica/tree/main/Programaci%C3%B3n%20Din%C3%A1mica/Edmonds%20Karp)
- 
+
 ## Búsqueda Binaria
 - [Búsqueda Binaria](https://github.com/Amy312/Algoritmica/tree/main/B%C3%BAsqueda%20Binaria)
 
