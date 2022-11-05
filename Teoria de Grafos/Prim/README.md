@@ -12,7 +12,7 @@ otro contiene el resto de los vértices), elige el borde de peso mínimo del cor
 -  [PRiM](prim.cpp) - _C++_
 
 ## Problemas
-
+-  [PRIM example](https://www.gatevidyalay.com/prims-algorithm-prim-algorithm-example/)
 
 
 ## Referencias 
